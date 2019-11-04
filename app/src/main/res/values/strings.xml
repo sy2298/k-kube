@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KCube</string>
+    <string name="notification_channel_id">"Notification"</string>
+    <string name="notification_channel_name">"Notification Name"</string>
+    <string name="str3">운영시간</string>
+    <string name="str5">기자재 대여 안내</string>
+    <string name="str1">이용방법</string>
+    <string name="str4">\n① 운영 요일: 매주 월~금요일(공휴일 제외)\n② 운영 시간: 학기중 09:00~22:00 / 방학중 10:00~17:00\n *단,M studio, 이러닝 스튜디오는 학기/방학 10:00~17:00 운영\n</string>
+    <string name="str2">\n① 이용 대상: 학부 재학생/휴학생, 대학원생\n 단, 일반적인 큐브실과 달리 멀티미디어 실습 공간인 M Studio,\n이러닝 스튜디오의 경우 교원도 이용가능\n② 대여 가능시간: 최대 3시간(30분 단위로 신청가능)\n③ 예약 가능 기간: 신청일 기준 14일 이내\n "</string>
+    <string name="str6">\n일부 큐브에는 대영 가능한 기자재가 있습니다.\n\n① 이용 방법\n * 큐브 예약 신청 화면에서 대여가능 기자재 선택\n* 해당 부서에서 대여 가능 여부를 SMS로 안내함 \n\n② SMS통보 시기\n * 매일 ~16:00이전 신청: 당일 17:00까지 통보\n* 매일 16:00~24:00신청: 익일 ~09:30까지 통보\n\n ③수령 및 반납\n* 대여 가능 통보 받은 경우 시작시간 10분 전부터 방문 후 수령\n* 본인의 대여 종료시간 후 10분 이내 반납\n</string>
+
+</resources>
